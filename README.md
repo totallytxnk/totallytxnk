@@ -1,40 +1,46 @@
-### hey, I'm tank
+# tank 🛠️
 
-Self-taught creative coder. High school student building fullstack websites and Discord bots that actually work.
+> Self-taught creative coder building fullstack websites and Discord bots.
 
-I care about clean code, solid problem-solving, and shipping things that feel intentional.
-
----
-
-### what I work on
-
-- **Fullstack websites** — Next.js, TypeScript, Supabase, Stripe
-- **Discord bots & tools** — discord.js, Node.js, Redis, real-time systems
-- **Backend & infra** — Fastify, Prisma, PostgreSQL, BullMQ
-
-### featured projects
-
-| Project | Description |
-|---------|-------------|
-| **[TankVault](https://github.com/totallytxnk/TankVault)** | Secure digital asset marketplace for code, design assets, and templates |
-| **[TankTelemetry](https://github.com/totallytxnk/TankTelemetry)** | Real-time API analytics and incident monitoring with live dashboards |
-| **[TankPulse](https://github.com/totallytxnk/TankPulse)** | GitHub → Discord notification engine with rate-limited embeds and queue buffering |
-| **[TankGuard](https://github.com/totallytxnk/TankGuard)** | High-performance Discord security bot with Redis rate limiting |
+I'm a high school student focused on clean architecture, practical tools, and shipping work that actually gets used. Everything I know comes from documentation, experimentation, and real projects - no bootcamps, no formal courses.
 
 ---
 
-### currently
+## 🚀 What I Build
 
-- Building and refining the projects above
-- Learning by shipping — no bootcamps, just docs, experiments, and real tools
-- Open to collabs and interesting problems
-
-### find me
-
-- Portfolio → [totallytxnk.dev](https://totallytxnk.dev)
-- Discord → `totallytxnk`
-- Email → hello@example.com *(placeholder)*
+* **Fullstack web applications** with modern frameworks and solid backend design
+* **Discord bots & real-time systems** for communities and automation
+* **Developer tools & infrastructure** that prioritise performance and reliability
 
 ---
 
-*Half Moroccan, half English. Always learning, always shipping the next thing.*
+## 🛠️ Tech Stack
+
+```
+| Area              | Technologies                                      |
+| :---------------- | :------------------------------------------------ |
+| **Frontend**      | Next.js, React, TypeScript, Tailwind CSS          |
+| **Backend**       | Node.js, Fastify, Express, Python                 |
+| **Databases**     | PostgreSQL, Prisma, Redis, Supabase               |
+| **Other**         | discord.js, Stripe, BullMQ, Docker                |
+```
+
+---
+
+## 📍 Currently
+
+* Shipping and refining production-ready tools
+* Deepening backend and systems knowledge through real deployments
+* Open to collaboration on interesting technical problems
+
+---
+
+## 🔗 Find Me
+
+* **Portfolio** → [totallytxnk.dev](https://totallytxnk.dev)
+* **Discord** → `totallytxnk`
+* **Email** → hello@example.com *(placeholder)*
+
+---
+
+*Half Moroccan, half English. Always learning. Always shipping.*
