@@ -1,15 +1,15 @@
 # Hello, I'm tank (or totallytxnk)
 
-> **Self-taught creative coder** building low-latency LAN utilities, systems tools, fullstack web platforms, and high-performance Discord infrastructure[cite: 1, 3]. Driven by clean architecture, practical design, and shipping software that works[cite: 1].
+> **Self-taught creative coder** building low-latency LAN utilities, systems tools, fullstack web platforms, and high-performance Discord infrastructure. Driven by clean architecture, practical design, and shipping software that works.
 
 ---
 
 ### 🚀 Active Public Repositories
 
-- **[TankGuard](https://github.com/totallytxnk/TankGuard):** High-performance Discord security bot designed for raid protection and link-spam mitigation, backed by Redis token-bucket rate limiting[cite: 3].
-- **[TankPulse](https://github.com/totallytxnk/TankPulse):** High-throughput Discord event delivery engine that ingests GitHub webhooks and buffers event streams via Redis[cite: 3].
-- **[TankTelemetry](https://github.com/totallytxnk/TankTelemetry):** Real-time API analytics and monitoring SaaS platform for capturing, streaming, and visualizing remote telemetry data[cite: 3].
-- **[TankVault](https://github.com/totallytxnk/TankVault):** Secure e-commerce marketplace for digital assets with anti-piracy vault architecture and isolated cloud storage[cite: 3].
+- **[TankGuard](https://github.com/totallytxnk/TankGuard):** High-performance Discord security bot designed for raid protection and link-spam mitigation, backed by Redis token-bucket rate limiting.
+- **[TankPulse](https://github.com/totallytxnk/TankPulse):** High-throughput Discord event delivery engine that ingests GitHub webhooks and buffers event streams via Redis.
+- **[TankTelemetry](https://github.com/totallytxnk/TankTelemetry):** Real-time API analytics and monitoring SaaS platform for capturing, streaming, and visualizing remote telemetry data.
+- **[TankVault](https://github.com/totallytxnk/TankVault):** Secure e-commerce marketplace for digital assets with anti-piracy vault architecture and isolated cloud storage.
 
 ---
 
@@ -32,9 +32,9 @@
 
 | Domain | Technologies & Languages |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, Rust, C++, C#, Go, Assembly[cite: 1, 2, 3] |
-| **Backend & Systems** | WebRTC, UDP Sockets, Monolithic Kernels, Redis, Node.js[cite: 3] |
-| **Frontend & Design** | HTML/CSS, React/Next.js, Web Interfaces, Tailwind CSS[cite: 1, 2] |
+| **Languages** | TypeScript, JavaScript, Python, Rust, C++, C#, Go, Assembly |
+| **Backend & Systems** | WebRTC, UDP Sockets, Monolithic Kernels, Redis, Node.js |
+| **Frontend & Design** | HTML/CSS, React/Next.js, Web Interfaces, Tailwind CSS |
 
 ---
 
