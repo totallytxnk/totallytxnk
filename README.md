@@ -1,6 +1,6 @@
-# Hello, I'm tank (or totallytxnk)
+# tank | `totallytxnk`
 
-> **Self-taught creative coder** building low-latency LAN utilities, systems tools, fullstack web platforms, and high-performance Discord infrastructure. Driven by clean architecture, practical design, and shipping software that works.
+> **Self-taught creative coder** building local network tools, backend systems, fullstack web platforms, and high-performance Discord infrastructure. Driven by clean architecture, practical design, and shipping software that (hopefully) works.
 
 ---
 
