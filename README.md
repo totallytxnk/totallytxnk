@@ -1,4 +1,4 @@
-# Hello, I'm tank (`totallytxnk`)
+# Hello, I'm tank (or totallytxnk)
 
 > **Self-taught creative coder** building low-latency LAN utilities, systems tools, fullstack web platforms, and high-performance Discord infrastructure[cite: 1, 3]. Driven by clean architecture, practical design, and shipping software that works[cite: 1].
 
@@ -35,13 +35,6 @@
 | **Languages** | TypeScript, JavaScript, Python, Rust, C++, C#, Go, Assembly[cite: 1, 2, 3] |
 | **Backend & Systems** | WebRTC, UDP Sockets, Monolithic Kernels, Redis, Node.js[cite: 3] |
 | **Frontend & Design** | HTML/CSS, React/Next.js, Web Interfaces, Tailwind CSS[cite: 1, 2] |
-
----
-
-### 📈 GitHub Overview
-
-![Tank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=totallytxnk&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=totallytxnk&layout=compact&theme=dark)
 
 ---
 
