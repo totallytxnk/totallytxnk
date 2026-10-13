@@ -10,12 +10,13 @@
 - **[TankPulse](https://github.com/totallytxnk/TankPulse):** High-throughput Discord event delivery engine that ingests GitHub webhooks and buffers event streams via Redis.
 - **[TankTelemetry](https://github.com/totallytxnk/TankTelemetry):** Real-time API analytics and monitoring SaaS platform for capturing, streaming, and visualizing remote telemetry data.
 - **[TankVault](https://github.com/totallytxnk/TankVault):** Secure e-commerce marketplace for digital assets with anti-piracy vault architecture and isolated cloud storage.
+- **[TankStream](https://github.com/totallytxnk/TankStream):** Peer-to-peer media bridge for low-latency webcam & microphone streaming over WebRTC with hardware acceleration.
+- **[TankLapse](https://github.com/totallytxnk/TankLapse):** Lightweight interval screenshot tool that streams frames to disk and compiles infinite recordings into high-framerate MP4 timelapses.
 
 ---
 
 ### 🚧 Incoming & Planned Projects
 
-- **TankStream** `(TypeScript / C++)`: Peer-to-peer media bridge for low-latency webcam & microphone streaming over WebRTC with hardware acceleration.
 - **TankKVM** `(Rust / TypeScript)`: Lightweight software KVM switch for low-latency keyboard/mouse sharing across LAN via UDP.
 - **TankDisplay** `(C# / C++)`: Virtual display manager leveraging Windows IiddCx driver to extend monitors over Wi-Fi or USB.
 - **TankBridge** `(Go / TypeScript)`: Encrypted cross-device clipboard synchronizer using mDNS discovery.
@@ -29,7 +30,7 @@
 
 | Domain | Technologies & Languages |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, Rust, C++, C#, Go, Assembly |
+| **Languages** | TypeScript, JavaScript, Python, C++, C#, Go |
 | **Backend & Systems** | WebRTC, UDP Sockets, Monolithic Kernels, Redis, Node.js |
 | **Frontend & Design** | HTML/CSS, React/Next.js, Web Interfaces, Tailwind CSS |
 
