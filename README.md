@@ -24,4 +24,6 @@
 
 ### 📬 Reach Me
 - **Discord:** @totallytxnk
+- **Twitter (X):** @definitelytxnk
+- **Reddit:** @totallytxnk
 - **Portfolio:** *N/A*
